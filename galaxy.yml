@@ -1,0 +1,19 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Dmitriy (@S1ugger96)
+description: Collection with a custom module that creates a text file with given content, and a role that uses it
+license:
+  - GPL-3.0-or-later
+tags:
+  - file
+  - example
+dependencies: {}
+repository: https://github.com/S1ugger96/my_own_collection
+documentation: https://github.com/S1ugger96/my_own_collection/blob/main/README.md
+homepage: https://github.com/S1ugger96/my_own_collection
+issues: https://github.com/S1ugger96/my_own_collection/issues
+build_ignore:
+  - '*.tar.gz'
